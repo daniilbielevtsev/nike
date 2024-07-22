@@ -1,0 +1,16 @@
+:root {
+  --textclor: #ffffff;
+  --buttoncolor: #8e32c6;
+  --linkcolor: #c7c7c7;
+  --headerbgcolor: #012d63;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  background-color: #012d63;
+}
+/* ==================header============= */
+.header {
+  background-color: var(--headerbgcolor);
+}
